@@ -1,0 +1,4 @@
+# Labray
+Therefore, the comprehensive program, known as the LRIS (Laboratory and Radiology Information System), was developed to enhance radiology and laboratory operations. As a radiology information system that integrates a lab, LRIS has been proven to enhance the efficiency of the healthcare facilities and the overall patient care because the information from the two departments is processed in real-time. 
+Through the various functions of the system including the control of quality, reporting of results, monitoring the specimens, patient care, laboratory and radiology services, the provision of service is enhanced and made more efficient. 
+The following are the ways by which LRIS helps healthcare professionals: improvement of satisfaction of patients, decrease of costs, and an increase in the quality of the overall standard of the care by facilitating manual operations, decreasing the number of errors, and ensuring the fast processing of tasks. 
